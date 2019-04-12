@@ -1,0 +1,26 @@
+{
+  "name": "redditogram-v3",
+  "version": "3.1.0",
+  "description": "A Reddit to Telegram bridge",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamikazechaser/redditogram-v3.git"
+  },
+  "keywords": [
+    "reddit",
+    "telegram"
+  ],
+  "author": "Mohammed Sohail <sohailsameja@gmail.com>",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/kamikazechaser/redditogram-v3/issues"
+  },
+  "homepage": "https://github.com/kamikazechaser/redditogram-v3#readme",
+  "dependencies": {
+    "bull": "^3.7.0"
+  }
+}
