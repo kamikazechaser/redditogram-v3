@@ -23,6 +23,6 @@
   "dependencies": {
     "bull": "^3.7.0",
     "node-fetch": "^2.3.0",
-    "node-telegram-bot-api": "^0.30.0"
+    "tgfancy": "^0.13.0"
   }
 }
