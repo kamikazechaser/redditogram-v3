@@ -1,0 +1,1 @@
+const tg = require("./lib/telegram");
